@@ -1,0 +1,38 @@
+@charset "UTF-8";
+html {
+  font-family: "Sixtyfour", sans-serif;
+  font-size: 20;
+  font-optical-sizing: auto;
+  font-weight: 1 ;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+}
+/* Font Grouping */
+
+.small {
+  font-size: 20px;
+}
+.medium {
+  font-size: 30px;
+}
+.large {
+  font-size: 60px;
+}
+
+/* Font Color */
+
+h1 {color: darkgreen;}
+p {color: aqua;}  
+body {
+color: aliceblue;
+}
+
+body {
+  background-image: url(https://i.pinimg.com/736x/c9/14/6a/c9146ae06fbedb438b66f96dc5068011.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 105%;
+}
