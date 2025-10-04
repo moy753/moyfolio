@@ -35,4 +35,6 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: 100% 105%;
+  margin: 0;
+  text-align: left;
 }
