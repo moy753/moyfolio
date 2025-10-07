@@ -24,6 +24,7 @@ html {
 /* Font Color */
 
 h1 {color: darkgreen;}
+h2 {color: black;}
 p {color: aqua;}  
 body {
 color: aliceblue;
@@ -37,4 +38,19 @@ body {
   background-size: 100% 105%;
   margin: 0;
   text-align: left;
+}
+
+.images {
+display: flex;
+align-items: top;
+justify-content:space-around;
+
+}
+
+div.horizontalgap {
+  float: left;
+  overflow: hidden;
+  height: 1px;
+  width: 0px;
+  
 }
